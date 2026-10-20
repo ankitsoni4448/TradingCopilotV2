@@ -1,0 +1,14 @@
+{
+  "database_path": "trading_copilot.db",
+  "region": {"left": 0, "top": 0, "width": 1280, "height": 720},
+  "interval_seconds": 5,
+  "max_capture_age_seconds": 10,
+  "tesseract_executable": null,
+  "price_tag_fill_rgb": [205, 205, 205],
+  "price_tag_color_tolerance": 55,
+  "price_tag_roi": [0.72, 0.25, 0.92, 0.48],
+  "vision_backend": "disabled",
+  "vision_model": null,
+  "vision_timeout_seconds": 2.0,
+  "reference_symbols": ["BTCUSDT", "ETHUSDT", "BNBUSDT", "SOLUSDT", "XRPUSDT"]
+}

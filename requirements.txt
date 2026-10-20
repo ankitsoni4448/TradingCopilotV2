@@ -1,0 +1,8 @@
+fastapi>=0.115,<1
+numpy>=2.0,<3
+pandas>=2.2,<3
+Pillow>=11,<13
+pydantic>=2.10,<3
+requests>=2.32,<3
+streamlit>=1.40,<2
+uvicorn[standard]>=0.32,<1
